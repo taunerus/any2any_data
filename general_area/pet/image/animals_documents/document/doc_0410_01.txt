@@ -1,0 +1,33 @@
+ANIMAL RECORD #410
+==================================================
+
+ANIMAL NAME: Koala
+
+SCIENTIFIC NAME: Phascolarctos cinereus
+
+LIFESPAN: 13
+
+HABITAT: The natural habitat of the Koala is in eucalyptus forests, woodlands, and coastal areas in eastern and southern Australia. They require large areas of suitable eucalyptus forest to support a healthy population and allow for expansion by maturing young Koalas. Koalas live in societies and need to be able to come into contact with other Koalas, making large areas of undisturbed habitat essential for their survival.
+
+DIET: The Koala typically eats eucalyptus leaves, which are high in fiber but low in nutrients and calories.
+
+FOOD CHAIN ROLE: Herbivore
+
+ADAPTATION: Koalas have several adaptations that help them survive in their environment. 
+
+1. **Thick, fluffy fur**: Koalas in the southern regions of Australia have thicker, fluffier fur, which helps them stay warm in colder winters. 
+2. **Strong arms, powerful legs, and sharp claws**: These physical characteristics enable koalas to climb trees with ease, allowing them to feed on eucalyptus leaves and escape predators.
+3. **Opposable thumbs**: Koalas have two opposable thumbs on their front paws, which provide a better grip on smooth-barked gum trees.
+4. **Specialized digestive system**: Koalas have a unique digestive system that allows them to break down toxic compounds in eucalyptus leaves, which are toxic to many animals.
+5. **Low energy diet**: Koalas have a low energy diet, which means they don't need to eat much, and they can survive on a diet of eucalyptus leaves, which are low in nutrients.
+6. **Ability to sleep for up to 20 hours a day**: This helps koalas conserve energy, as their diet is low in nutrients and they need to conserve energy to survive.
+7. **Excellent hearing and sense of smell**: Koalas have poor vision, but they have excellent hearing and a keen sense of smell, which helps them detect predators, other koalas, and their favorite food trees.
+8. **Hard, dense rump**: Koalas have a hard, dense rump that provides a cushion for sitting on hard branches, allowing them to rest comfortably in tree forks.
+9. **Specialized paws**: Koalas have rough pads on their palms and soles, which help them grip tree trunks and branches, and long, sharp claws that enable them to climb securely.
+10. **Ability to mark trees with scent**: Male koalas have a scent gland on their chest, which they use to mark trees and attract females, helping them establish dominance and find mates.
+
+ADAPTATION SUMMARY: Fur, Claws, Thumbs, Digestive, Scent
+
+==================================================
+Source: HuggingFace Dataset - rakio/Animals
+Downloaded: 2025-08-21 09:47:50

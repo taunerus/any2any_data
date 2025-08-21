@@ -1,0 +1,33 @@
+ANIMAL RECORD #412
+==================================================
+
+ANIMAL NAME: Cheetah
+
+SCIENTIFIC NAME: Acinonyx jubatus
+
+LIFESPAN: 12
+
+HABITAT: Cheetahs are tolerant of a wide range of habitats, including shrublands, grasslands, savannahs, and temperate to hot deserts. They are found in various parts of Africa and a small portion of Iran. Historically, cheetahs had a near worldwide distribution, but their range has significantly declined over the past 20,000 years. Currently, the largest single population of cheetahs occupies a six-country region in southern Africa, including Namibia, Botswana, South Africa, Angola, Mozambique, and Zambia. Namibia is often referred to as the "Cheetah Capital of the World" due to its large cheetah population.
+
+DIET: Cheetahs typically eat small antelope, such as springbok, steenbok, duikers, impala, and gazelles, as well as the young of larger animals, including warthog, kudu, hartebeest, oryx, roan, and sable. They also eat game birds and rabbits.
+
+FOOD CHAIN ROLE: Carnivore.
+
+ADAPTATION: Some adaptations that help the cheetah survive in its environment include:
+
+1. **Enlarged heart, oversized liver, adrenals, bronchi, and lungs**: These physical adaptations enable the cheetah to achieve explosive speed and rapid acceleration, allowing it to capture prey effectively.
+2. **High oxygen intake adaptations**: The cheetah's specially adapted respiratory system, including enlarged nostrils and extensive air-filled sinuses, allows it to take in high amounts of oxygen, supporting its rapid breathing rate of up to 150 breaths per minute while running.
+3. **Small, aerodynamic body frame**: The cheetah's slender body and lightweight skeleton help reduce wind resistance, allowing it to achieve high speeds.
+4. **Long leg and foot bones**: The cheetah's long legs and feet enable it to cover great distances with each stride, reaching speeds of up to 70 miles per hour.
+5. **Flexible spine**: The cheetah's highly flexible spine allows it to make sudden, long, and rapid strides, facilitating its unique gait and high-speed running.
+6. **Spring-like ligaments**: The cheetah's legs contain spring-like ligaments that aid endurance and help the cheetah to maintain its speed over longer distances.
+7. **Specialized paw pads**: The cheetah's paw pads provide traction and stability, allowing it to make sharp turns and quick changes in direction while running at high speeds.
+8. **Unique coat coloration and pattern**: The cheetah's distinctive coat coloration and pattern may help it to blend in with its surroundings, making it easier to stalk prey and avoid predators.
+
+These adaptations work together to enable the cheetah to thrive in its environment, making it one of the most successful predators in its ecosystem.
+
+ADAPTATION SUMMARY: Speed, Oxygen, Aerodynamics, Flexibility, Traction
+
+==================================================
+Source: HuggingFace Dataset - rakio/Animals
+Downloaded: 2025-08-21 09:47:50
