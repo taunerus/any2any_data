@@ -1,0 +1,28 @@
+ANIMAL RECORD #415
+==================================================
+
+ANIMAL NAME: Hippopotamus
+
+SCIENTIFIC NAME: Hippopotamus amphibius
+
+LIFESPAN: 40
+
+HABITAT: The natural habitat of the hippopotamus is in slow-moving rivers and lakes in Africa. They are found in freshwater habitats, such as swamps, rivers, and lakes, and are adapted for life in the water. Hippos are widely distributed across sub-Saharan Africa, with a range that includes East Africa, where they are most abundant. They inhabit areas with still or slow-moving water, such as rivers, lakes, and swamps, and are often found in areas with dense vegetation.
+
+DIET: Hippopotamuses are herbivores and their diet typically consists of grasses.
+
+FOOD CHAIN ROLE: Herbivore.
+
+ADAPTATION: The hippopotamus has several adaptations that help it survive in its environment. Its eyes, ears, and nostrils are positioned high on its head, allowing it to see, hear, breathe, and smell while keeping the rest of its body submerged in water. The nostrils can also close when the hippopotamus dips its head below the water. Additionally, a clear membrane protects its eyes, enabling it to see underwater.
+
+The hippopotamus's body is dense, allowing it to walk underwater and hold its breath for up to five minutes. Its lower jawbone may also allow it to distinguish sounds underwater. The hippopotamus's skin produces a red, oily liquid that acts as a natural sunscreen and may have antiseptic properties.
+
+The hippopotamus's diet consists mainly of grasses, and its stomach can hold up to two days' worth of food. If necessary, it can forgo eating for up to three weeks. Its thick lips and wide snout are designed for grazing, and its largely inactive lifestyle helps conserve energy.
+
+The pygmy hippopotamus, a smaller relative of the common hippopotamus, has adapted to living in tropical rainforests and swamps, with a smaller body that allows it to navigate through dense vegetation. Overall, the hippopotamus's unique adaptations enable it to thrive in its aquatic and terrestrial environments.
+
+ADAPTATION SUMMARY: Nostrils, Membrane, Skin, Lips, Snout
+
+==================================================
+Source: HuggingFace Dataset - rakio/Animals
+Downloaded: 2025-08-21 09:47:50

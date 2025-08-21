@@ -1,0 +1,33 @@
+ANIMAL RECORD #409
+==================================================
+
+ANIMAL NAME: Zebra
+
+SCIENTIFIC NAME: Equus quagga
+
+LIFESPAN: 25
+
+HABITAT: The natural habitat of zebras varies depending on the species. Grevy's zebras live in arid shrubland and grassland in Kenya and southern Ethiopia. Plains zebras are found in savannahs, shrublands, and grasslands from South Sudan and southern Ethiopia to southern Angola and northern Namibia and northern South Africa. Mountain zebras live in more rugged, mountainous terrain and escarpment areas up to 2000 meters above sea level in South Africa, Namibia, and Angola.
+
+DIET: The zebra typically eats grasses.
+
+FOOD CHAIN ROLE: Herbivore.
+
+ADAPTATION: Some adaptations that help zebras survive in their environment include:
+
+1. Stripe pattern: The unique stripe pattern of each zebra species helps to confuse predators, making it difficult for them to single out an individual.
+2. Living in groups: Zebras live in herds, which provides protection and helps them find food and care for their young.
+3. Social structure: The dominant male and female zebras in a herd play a crucial role in protecting the group and leading them to food and water sources.
+4. Agility and speed: Zebras are able to run at high speeds and make quick turns to escape predators.
+5. Specialized digestive system: Zebras have a unique digestive system that allows them to break down and extract nutrients from plant material, enabling them to survive in areas with limited food resources.
+6. Ability to go without water: Zebras can survive for extended periods without water, getting moisture from the plants they eat and conserving water in their bodies.
+7. Thick coats: Zebras have thick coats that help to protect them from extreme temperatures and provide insulation in cold weather.
+8. Strong legs and hooves: Zebras have strong legs and hooves that enable them to run, jump, and kick predators, as well as navigate rugged terrain.
+9. Communication skills: Zebras use a variety of vocalizations, body language, and facial expressions to communicate with each other and warn other zebras of potential threats.
+10. Adaptation to different habitats: Different zebra species have adapted to live in various habitats, such as grasslands, savannahs, and mountainous regions, allowing them to occupy a wide range of ecological niches.
+
+ADAPTATION SUMMARY: Stripes, Speed, Digestion, Insulation, Communication
+
+==================================================
+Source: HuggingFace Dataset - rakio/Animals
+Downloaded: 2025-08-21 09:47:50

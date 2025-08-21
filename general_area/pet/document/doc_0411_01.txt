@@ -1,0 +1,33 @@
+ANIMAL RECORD #411
+==================================================
+
+ANIMAL NAME: Pollar Bear
+
+SCIENTIFIC NAME: Ursus maritimus
+
+LIFESPAN: 25
+
+HABITAT: The natural habitat of the polar bear is the Arctic sea ice and surrounding land masses, including tundra, ice caps, and glaciers. They are well adapted to their marine environment, with a thick layer of fat and a white coat that helps them blend in with their snowy and icy surroundings. Polar bears can be found in the wild throughout the Arctic region, including Alaska, Canada, Greenland, Norway, and Russia. They are excellent swimmers and have been known to swim for hours or even days at a time, covering distances of up to 60 miles (97 kilometers) without resting. Their habitat is typically characterized by cold temperatures, sea ice, and access to prey such as seals, which are their primary source of food.
+
+DIET: Polar bears are the most carnivorous of all the bear species. They primarily feed on ringed seals, but will also eat bearded seals, harp seals, hooded and harbor seals, when available. Larger prey species such as walrus, narwhal, and beluga are occasionally hunted. Polar bears will readily scavenge on marine mammal carcasses. They will also eat birds, fish, vegetation, and kelp, although the caloric contribution of such foods likely contributes little to their overall sustenance.
+
+FOOD CHAIN ROLE: Carnivore
+
+ADAPTATION: Some adaptations that help polar bears survive in their environment include:
+
+1. **Thick fur and black skin**: Polar bears have two layers of fur: a thick undercoat and a longer, guard hair layer. Underneath their fur, they have black skin that absorbs heat.
+2. **Fat reserves**: Polar bears have a thick layer of fat (up to 4 inches thick) that helps to keep them warm in freezing temperatures and provides energy when food is scarce.
+3. **Large paws**: Polar bears have large, flat paws with papillae (small bumps) that act like suction cups, allowing them to grip ice and snow.
+4. **Claws**: Their claws are long, curved, and sharp, which helps them to climb out of the water, grasp prey, and walk on ice.
+5. **White camouflage**: Their white fur helps them to blend in with their snowy and icy surroundings, making it easier for them to hunt and sneak up on prey.
+6. **Excellent swimmers**: Polar bears are excellent swimmers, with a waterproof coat and a powerful stroke that allows them to swim for hours or even days at a time.
+7. **Slow metabolism**: Polar bears have a slow metabolism, which helps them to conserve energy when food is scarce.
+8. **Specialized nose**: Polar bears have a highly developed sense of smell, which they use to detect seals, their primary source of food, from a great distance.
+
+These adaptations enable polar bears to survive and thrive in one of the most inhospitable environments on Earth, the Arctic.
+
+ADAPTATION SUMMARY: Fur, Fat, Claws, Camouflage, Swimmers
+
+==================================================
+Source: HuggingFace Dataset - rakio/Animals
+Downloaded: 2025-08-21 09:47:50

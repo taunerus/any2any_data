@@ -1,0 +1,40 @@
+ANIMAL RECORD #403
+==================================================
+
+ANIMAL NAME: Giraffe
+
+SCIENTIFIC NAME: Giraffa camelopardalis
+
+LIFESPAN: 26
+
+HABITAT: Giraffes are commonly found in grasslands and open woodlands in East Africa. Their natural habitat includes savannahs and savannah woodlands, where they can be seen in reserves such as Tanzania's Serengeti National Park and Kenya's Amboseli National Park. Historically, giraffes occupied much of the savannah and savannah woodlands of Africa, but their range has been reduced due to habitat loss and fragmentation. They can still be found in various parts of Africa, including national parks and protected areas.
+
+DIET: Giraffes eat a wide variety of trees and shrubs, and spend a large part of each day browsing. They use their prehensile tongues to browse foliage almost six meters from the ground. Their diet includes acacia leaves, which can be high in protein but low in tannins, and they can induce shoot growth in some acacia species through their browsing.
+
+FOOD CHAIN ROLE: Herbivore.
+
+ADAPTATION: Several adaptations help the giraffe survive in its environment. These include:
+
+1. **Long neck and legs**: The giraffe's long neck and legs allow it to reach high into trees to feed on leaves and fruits that other animals cannot access. This unique trait also enables them to see predators from a distance, providing an early warning system for potential threats.
+
+2. **Specialized cardiovascular system**: Giraffes have a highly specialized cardiovascular system that helps regulate blood flow to the brain against gravity, especially when they bend down to drink or lift their heads up. This system includes high blood pressure and a network of blood vessels in the neck called the "rete mirabile" (miraculous net) that helps to counteract the effects of gravity on blood flow.
+
+3. **Coat patterns and coloration**: The distinctive coat patterns of giraffes, which vary among individuals and species, may serve as camouflage in their savanna and woodland habitats. The patterns can help giraffes blend in with their surroundings, making it harder for predators like lions and hyenas to spot them.
+
+4. **Hooves and feet**: Giraffes have large, flat hooves that help distribute their weight and provide stability. Their feet are also equipped with soft, elastic pads that help to reduce noise while walking, allowing them to move stealthily if needed.
+
+5. **Prehensile tongue and lips**: Giraffes have long, prehensile tongues and lips that are blue-black in color, which helps to protect them from the thorns of the acacia trees they feed on. Their tongue's coloration may also offer some protection against the sun.
+
+6. **Dietary adaptations**: Giraffes are ruminants with a four-chambered stomach that allows them to digest plant material, especially cellulose in leaves, more efficiently. They primarily feed on acacia leaves, which are nutritious but also contain compounds that can be toxic to many animals. Giraffes have adaptations that enable them to detoxify these compounds, making acacia leaves a viable food source.
+
+7. **Water conservation**: Giraffes can go without water for long periods, getting moisture from the leaves they eat. When they do drink, they can take in large quantities of water at once, which helps to conserve water in their arid and semi-arid habitats.
+
+8. **Thermoregulation**: Giraffes have several adaptations that help them regulate their body temperature in hot environments, including sweating, seeking shade, and resting during the hottest parts of the day.
+
+These adaptations collectively enable giraffes to thrive in their savanna and woodland environments, making them one of the most iconic and successful large mammal species in Africa.
+
+ADAPTATION SUMMARY: Camouflage, Cardiovascular, Thermoregulation, Ruminant, Prehensile
+
+==================================================
+Source: HuggingFace Dataset - rakio/Animals
+Downloaded: 2025-08-21 09:47:50
