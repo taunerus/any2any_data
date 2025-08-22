@@ -1,0 +1,43 @@
+ANIMAL RECORD #422
+==================================================
+
+ANIMAL NAME: Whale
+
+SCIENTIFIC NAME: Balaenoptera
+
+LIFESPAN: 200
+
+HABITAT: The natural habitat of whales includes all of the world's oceans, from the Arctic to the Antarctic, and in every ocean in between. They can be found in both warm and cold waters, and in both shallow and deep seas. Some species of whales, such as the humpback and gray whales, migrate long distances to reach their breeding and feeding grounds, while others, such as the sperm whale, prefer to stay in deeper waters. Whales can also be found in seas, including the North Sea and the Mediterranean, and some species can be found in polar habitats.
+
+DIET: Whales are carnivorous and predatory, with different species having varied diets. Odontocetes (toothed whales) mostly feed on fish, cephalopods, crustaceans, and bivalves, while mysticetes (baleen whales) primarily feed on krill, plankton, crustaceans, and other invertebrates. Some examples of specific whale diets include:
+
+- Blue whale: almost exclusively krill
+- Minke whale: mainly schooling fish
+- Sperm whale: specializes on squid
+- Grey whale: feeds on bottom-dwelling invertebrates
+- Southern resident killer whales: heavily rely on salmon, primarily Chinook salmon
+
+These diverse feeding habits reflect the various adaptations and ecological roles of different whale species in the marine ecosystem.
+
+FOOD CHAIN ROLE: Carnivore
+
+ADAPTATION: Some adaptations that help whales survive in their environment include:
+
+1. **Streamlined body**: Whales have a torpedo-shaped body that allows them to glide smoothly and easily through the water.
+2. **Baleen plates**: Baleen whales have baleen plates that act as a sieve to filter plankton and other small organisms from the water.
+3. **Toothed whales' sonar**: Toothed whales use sonar to find their way in the water and locate prey.
+4. **Blubber**: Whales have a thick layer of blubber that helps to keep them warm in cold water and provides energy when food is scarce.
+5. **Ventral pleats**: Humpback whales have ventral pleats that allow them to expand their mouth and take in large amounts of food.
+6. **Tubercles**: Humpback whales have tubercles on their upper and lower jaws that may help them sense temperature and vibrations in the water.
+7. **Counter-shading**: Whales have a dark back and a light belly that helps them blend in with the sunlight and darkness of the water.
+8. **Dorsal fin**: Whales have a dorsal fin that helps them balance and stay upright in the water.
+9. **Flippers**: Whales use their flippers to steer and stop while swimming.
+10. **Efficient oxygen use**: Whales have evolved to use oxygen more efficiently, allowing them to dive to great depths and stay underwater for extended periods.
+11. **High tolerance to lactic acid and carbon dioxide**: Whales can tolerate high levels of lactic acid and carbon dioxide, allowing them to work anaerobically while holding their breath.
+12. **Collapsible lungs and ribs**: Whales have collapsible lungs and ribs that allow them to dive to great depths without being crushed by the pressure.
+
+ADAPTATION SUMMARY: Streamlined, Blubber, Baleen, Sonar, Flippers
+
+==================================================
+Source: HuggingFace Dataset - rakio/Animals
+Downloaded: 2025-08-21 09:47:50

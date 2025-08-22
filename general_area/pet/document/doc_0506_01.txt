@@ -1,0 +1,33 @@
+ANIMAL RECORD #406
+==================================================
+
+ANIMAL NAME: Panda
+
+SCIENTIFIC NAME: Ailuropoda melanoleuca
+
+LIFESPAN: 17
+
+HABITAT: The natural habitat of the giant panda is in bamboo forests. They are highly specialized animals with unique adaptations, and their thick, wooly coat keeps them warm in the cool forests of their habitat. Giant pandas have large molar teeth and strong jaw muscles for crushing tough bamboo, and they spend most of their time eating and digesting bamboo. They are generally found in mountain ranges in central China, specifically in the Sichuan, Shaanxi, and Gansu provinces. The pandas' habitat is characterized by cool, humid climates with abundant bamboo, and they typically live at elevations between 2,200 and 4,500 meters above sea level.
+
+DIET: The giant panda typically eats bamboo, consuming 70-100 pounds of it per day.
+
+FOOD CHAIN ROLE: Herbivore.
+
+ADAPTATION: Some adaptations that help the Panda survive in its environment include:
+
+1. **Thick, wooly coat**: Keeps them warm in cool forests.
+2. **Large molar teeth and strong jaw muscles**: For crushing tough bamboo.
+3. **Specialized digestive system**: Although inefficient, allows them to digest bamboo.
+4. **Low metabolic rate**: Helps conserve energy, as bamboo is not very nutritious.
+5. **Unique gut microbiome**: Helps detoxify cyanide compounds in bamboo.
+6. **Powerful claws and flexible wrists**: For climbing and grasping bamboo.
+7. **Black and white fur**: Acts as camouflage in snowy and rocky habitats.
+8. **Specialized wrist bone**: Functions as a "thumb" to help grasp bamboo stalks.
+9. **Ability to eat almost exclusively bamboo**: Allows them to survive on a low-calorie, low-protein diet.
+10. **Seasonal adaptations**: such as changing their diet and activity patterns in response to seasonal changes in bamboo availability.
+
+ADAPTATION SUMMARY: Coat, Teeth, Digestive, Claws, Metabolism
+
+==================================================
+Source: HuggingFace Dataset - rakio/Animals
+Downloaded: 2025-08-21 09:47:50

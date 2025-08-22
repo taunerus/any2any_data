@@ -1,0 +1,33 @@
+ANIMAL RECORD #417
+==================================================
+
+ANIMAL NAME: Flamingo
+
+SCIENTIFIC NAME: Phoenicopterus ruber
+
+LIFESPAN: 20-30
+
+HABITAT: The natural habitat of the Flamingo consists of large alkaline or saline lakes or estuarine lagoons that usually lack vegetation. They can be found in various habitats, including mangrove swamps, tidal flats, and sandy islands in the intertidal zone. Flamingos prefer shallow wetlands at different elevations, and their habitats can be found in tropical and subtropical areas, including Africa, Asia, Europe, and the Americas. Specifically, some species of Flamingos, such as the Andean Flamingo, prefer shallow wetlands at high elevations in the Andes Mountains, while others, like the Greater Flamingo, can be found in a wider range of habitats, including freshwater and saltwater lakes, rivers, and coastal areas.
+
+DIET: The Flamingo typically eats blue-green and red algae, diatoms, larval and adult forms of small insects, crustaceans, molluscs, and small fishes. Their diet consists mainly of invertebrates, and the shape of their filtering bill determines their diet. Some flamingos, like the Lesser, James', and Andean flamingos, have deep-keeled bills and feed mainly on algae and diatoms, while others, like the Greater, Caribbean, and Chilean flamingos, have shallow-keeled bills and feed on insects, aquatic invertebrates, and small fishes.
+
+FOOD CHAIN ROLE: Omnivore.
+
+ADAPTATION: Some adaptations that help the Flamingo survive in its environment include:
+
+1. **Long legs**: Flamingos have long legs, which allow them to wade into deep water and feed on food sources that other birds cannot access.
+2. **Webbed feet**: Flamingos have webbed feet, which support them on soft mud and allow them to swim and maneuver in the water.
+3. **Filtering bill**: Flamingos have a unique, filtering bill that allows them to filter small plants and animals from the water, making them one of the most efficient feeders in the bird world.
+4. **Specialized feathers**: Flamingos have specialized feathers that help to repel water and keep them dry, even when they are standing in water.
+5. **Ability to stand on one leg**: Flamingos are able to stand on one leg while they rest, which helps to reduce their energy expenditure and conserve heat.
+6. **Strong wings**: Flamingos have strong wings that allow them to fly long distances, often at speeds of up to 37 miles per hour.
+7. **Pink or reddish feather coloration**: Flamingos' pink or reddish feather coloration comes from their diet, which is high in carotenoid pigments, and helps them to blend in with their surroundings.
+8. **Ability to drink boiling water**: Some species of flamingos are able to drink boiling water from hot springs, which allows them to live in areas where other birds cannot survive.
+
+These adaptations help flamingos to thrive in a variety of environments, from shallow lakes and coastal areas to salt flats and mangrove swamps.
+
+ADAPTATION SUMMARY: Long legs, Webbed feet, Filtering bill, Specialized feathers, Strong wings
+
+==================================================
+Source: HuggingFace Dataset - rakio/Animals
+Downloaded: 2025-08-21 09:47:50
